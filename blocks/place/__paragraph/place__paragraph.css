@@ -7,6 +7,6 @@
   line-height: 1.63;
 }
 
-.place__paragraph:first-of-type {
+.place__info > .place__paragraph:first-child {
   margin-bottom: 24px;
 }

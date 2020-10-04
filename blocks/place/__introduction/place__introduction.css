@@ -1,0 +1,4 @@
+.place__introduction {
+  display: flex;
+  align-items: flex-end;
+}
