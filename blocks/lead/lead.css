@@ -18,6 +18,7 @@
     max-width: 768px;
     max-height: 862px;
     margin-top: 48px;
+    margin-bottom: 88px;
   }
 }
 
@@ -26,5 +27,6 @@
     max-width: 320px;
     max-height: 406px;
     margin-top: 48px;
+    margin-bottom: 64px;
   }
 }
