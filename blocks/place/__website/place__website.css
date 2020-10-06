@@ -6,3 +6,15 @@
   flex-direction: column;
   align-self: flex-end;
 }
+
+@media screen and (max-width: 1023px) {
+  .place__website {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    position: absolute;
+  }
+}
