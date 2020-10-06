@@ -10,3 +10,5 @@ _______
 2. CSS
 
 Структура проекта организована по [БЭМ методологии](https://ru.bem.info/methodology/)
+
+Ссылка на проект: https://tatianaryzhova.github.io/russian-travel/
