@@ -1,14 +1,23 @@
-#  Путешествие по России
+# Russian Travelling
+
 _______
-## Описание проекта
-Проект представляет собой одностраничный сайт, несущий в себе полезную иноформацию путешествий по России.
+[Russian Travelling Demo](https://tatianaryzhova.github.io/russian-travel/)
 
-Сайт сверстан для четырех размеров экрана: 1280px, 1024px, 768px, 320px
+## Project description:
 
-В проекте используются следующие технологии:
-1. HTML
-2. CSS
+A single-page application which contains useful travel information across Russia. For whom? For foreign and local people
+who always wanted to discover Russia from a different side. Travellers can find plenty of valuable information and ideas
+about what places to visit, about forecast in different regions, where to buy tickets, etc.
 
-Структура проекта организована по [БЭМ методологии](https://ru.bem.info/methodology/)
+## Stack of technologies:
 
-Ссылка на проект: https://tatianaryzhova.github.io/russian-travel/
+* HTML
+* CSS
+
+The structure of the project is organized by [BEM methodology](https://ru.bem.info/methodology/)
+
+The project is adapted for various screen sizes: 1280px, 1024px, 768px, 320px The layout is made using grid and flexbox.
+
+## To do:
+
+Translate the project into English. The project should have two language options: English and Russian.
