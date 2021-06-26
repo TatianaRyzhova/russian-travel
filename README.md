@@ -7,7 +7,7 @@ _______
 
 ## Project description:
 
-A static website which contains useful travel information across Russia.
+A responsive website which contains useful travel information across Russia.
 
 For whom? For foreign and local people who always wanted to discover Russia from a different side. Travellers can find
 plenty of valuable information and ideas about what places to visit, about forecast in different regions, where to buy
