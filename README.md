@@ -3,13 +3,15 @@
 _______
 :rocket: [Russian Travelling Project Link](https://tatianaryzhova.github.io/russian-travel/)
 
+![Demo](demo/russian_travelling_demo.gif)
+
 ## Project description:
 
-A static website which contains useful travel information across Russia. 
+A static website which contains useful travel information across Russia.
 
-For whom? For foreign and local people
-who always wanted to discover Russia from a different side. Travellers can find plenty of valuable information and ideas
-about what places to visit, about forecast in different regions, where to buy tickets, etc.
+For whom? For foreign and local people who always wanted to discover Russia from a different side. Travellers can find
+plenty of valuable information and ideas about what places to visit, about forecast in different regions, where to buy
+tickets, etc.
 
 ## Tech stack:
 
